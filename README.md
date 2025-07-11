@@ -66,6 +66,9 @@ codingplatform/
 ![Screenshot 5](https://github.com/user-attachments/assets/c27a5be3-793b-4643-ae77-7cd4e8f007b5)
 ![Screenshot 6](https://github.com/user-attachments/assets/95277779-ab8a-4ba3-8d2b-068a2b931acb)
 
+Video demo link 
+https://drive.google.com/file/d/1tD35FooD47Rh6C91ppoegyONW2lbbjjV/view?usp=drive_link
+
 ## License
 
 This project is for learning and demonstration purposes.
